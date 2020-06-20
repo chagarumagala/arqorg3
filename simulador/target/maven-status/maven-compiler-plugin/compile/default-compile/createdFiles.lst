@@ -1,0 +1,10 @@
+mipssim\App.class
+mipssim\interfaces\Instruction.class
+mipssim\types\ALU_OPS$1.class
+mipssim\components\ConcreteALU.class
+mipssim\interfaces\Multiplexer.class
+mipssim\components\ConcreteALU$1.class
+mipssim\types\ConcreteInstruction.class
+mipssim\types\ALU_OPS.class
+mipssim\interfaces\ALU.class
+mipssim\types\INSTRUCTION_FORMAT.class
